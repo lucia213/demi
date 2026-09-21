@@ -1,0 +1,34 @@
+body{
+    background-image: url("../img/Diseñosintítulo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1,h3,p{
+    font-family: 'Indie Flower',cursive;
+    color:blueviolet;
+    
+}
+
+#header h3{
+    margin-bottom: 40vh;
+}
+
+.btn {
+    background-color: #C8A2E0;   /* pastel purple to match your theme */
+    color: white;
+    border: 2px solid #6A3D9A;
+    padding: 10px 24px;
+    font-size: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#buttons{
+    gap: 50px;
+
+}
+
+
+
